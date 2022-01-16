@@ -1,0 +1,16 @@
+{
+    "name": "project API Web Rental Mobil",
+    "short_name": "API Web Rental Mobil",
+    "description": "Rental Online",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "theme_color": "#ff1300",
+    "background_color": "#ff1300",
+    "icons": [
+        {
+            "src": "/image/icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
